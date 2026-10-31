@@ -1,5 +1,37 @@
- # Python Course Assignments
+# Day 02 Assignment
 
-This repository contains my assignments for the Python course. It is a place to keep my work organized and document what I learn along the way.
+In this week's assignment, we practiced cloning a repository from GitHub and working on it locally.
 
+## What I Did:
 
+- Created a new public GitHub repository named assignment2.
+
+- Cloned the repository to my local machine using VS Code.
+
+- Created a folder named day02.
+
+- Created a Python file called hello.py inside the folder.
+
+- Wrote a simple Python script that prints "Hello, World!".
+
+- Verified that the script executed successfully and printed the output.
+
+- Committed and pushed my code back to GitHub.
+
+## What I Learned:
+
+* How to create and clone a GitHub repository.
+
+* How to structure folders and manage Python files within VS Code.
+
+* How to use the terminal to execute scripts.
+
+* The basic Git workflow (commit and push changes).
+
+## Tools Used:
+
+- Git & GitHub
+
+- VS Code
+
+- Python
